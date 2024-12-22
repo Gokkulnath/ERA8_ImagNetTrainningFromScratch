@@ -1,1 +1,1 @@
-# ERAW9_ImagNetTrainningFromScratch
+# ERAW9_ImageNetTrainningFromScratch
