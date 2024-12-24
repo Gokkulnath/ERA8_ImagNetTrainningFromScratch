@@ -1,0 +1,4 @@
+.env 
+lightning_logs/
+
+**/*.pyc

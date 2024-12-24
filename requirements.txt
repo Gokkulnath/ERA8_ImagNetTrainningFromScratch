@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch
+torchvision
+pytorch-lightning>=2.0.0
+datasets
+timm
+pillow
+python-dotenv 
